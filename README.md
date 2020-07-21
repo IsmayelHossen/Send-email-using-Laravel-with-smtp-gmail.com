@@ -5,4 +5,4 @@ We must  installed authentication peakages in our project. By Default forget pas
 3.Set the routes in web.php
 4.Create view file into resource->views->here file name (MailIndex.blade.php).
 5.Create view file in resource->views->here file name(Mailpage.blade.php).
-All files and controller and requirement functionality included this project to change password and send email
+All files and controller and requirement functionality included this project to change password and send email.
