@@ -7,5 +7,5 @@ We must have  installed authentication paekages in our project. By Default forge
 4.Create view file into resource->views->here file name (MailIndex.blade.php).
 5.Create view file in resource->views->here file name(Mailpage.blade.php this page actually send to users).
 All files and controller and requirement functionality included this project to change password and send email(to users).
-#Second is make Notifications
+#Second is make Notifications.
 Send mail by notification we must crate Notifications using command,php artisan make:notification Welcomenotif ,In MailController.php from here pass the all value at a time to Mail And Notifications.
