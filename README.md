@@ -4,5 +4,5 @@ We must  installed authentication peakages in our project. By Default forget pas
 2.Create Controller using command php artisan make:controller MailController.
 3.Set the routes in web.php
 4.Create view file into resource->views->here file name (MailIndex.blade.php).
-5.Create view file in resource->views->here file name(Mailpage.blade.php).
-All files and controller and requirement functionality included this project to change password and send email.
+5.Create view file in resource->views->here file name(Mailpage.blade.php this page actually send to users).
+All files and controller and requirement functionality included this project to change password and send email(to users).
